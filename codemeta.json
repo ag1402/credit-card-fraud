@@ -1,0 +1,16 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Credit Card Fraud Detection (FAIR)",
+  "description": "Loads data via DBRepo API, trains a model, publishes to TUWRD.",
+  "version": "1.0.0",
+  "codeRepository": "https://github.com/YourUsername/creditcard-fraud-fair",
+  "license": "https://opensource.org/licenses/MIT",
+  "programmingLanguage": "Python",
+  "author": [{
+    "@type": "Person",
+    "givenName": "Your",
+    "familyName": "Name",
+    "identifier": "https://orcid.org/0000-0000-0000-0000"
+  }]
+}
